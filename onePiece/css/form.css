@@ -1,0 +1,31 @@
+form{
+    align-items: center;
+}
+h2{
+    text-align: center;
+}
+input{
+    align-items: center;
+}
+body{
+     background-color: #E4E5E7 ;
+;
+}
+textarea{
+    margin-top: 0%;
+}
+.nombre{
+    text-align: center;
+}
+.textarea{
+    padding: 20px;
+    text-align: center;
+}
+.enviar{
+    text-align: center;
+    padding-bottom: 50px;
+}
+footer{
+    display: block;
+    margin-top: auto;
+}
